@@ -1,5 +1,5 @@
-# This is my local repo
+This is my local repo
  <br>
- Owner - jiban Jati.
+ Owner - Jiban Jati.
  <br>
  NIT Rourkela
